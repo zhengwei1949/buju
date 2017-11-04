@@ -1,0 +1,43 @@
+header {
+  height: 1.15625rem;
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+  line-height: 1.15625rem;
+  background: #fff;
+}
+[data-dpr="2"] header {
+  font-size: 28px;
+}
+[data-dpr="3"] header {
+  font-size: 42px;
+}
+.banner {
+  background: #f8c4b9;
+  height: 3.21875rem;
+  border-bottom: 0.28125rem solid gray;
+}
+.banner img {
+  width: 10rem;
+  height: auto;
+}
+.menu {
+  font-size: 0;
+}
+.menu li {
+  height: 1.625rem;
+  width: 2.5rem;
+  background: pink;
+  float: left;
+  font-size: 14px;
+  text-align: center;
+}
+[data-dpr="2"] .menu li {
+  font-size: 28px;
+}
+[data-dpr="3"] .menu li {
+  font-size: 42px;
+}
+.menu li img {
+  margin-top: 0.25rem;
+}

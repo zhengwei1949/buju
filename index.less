@@ -1,0 +1,40 @@
+.ft(@fontSize){
+    font-size: @fontSize;
+    [data-dpr="2"] & {
+        font-size: @fontSize * 2;
+    }
+    [data-dpr="3"] & {
+        font-size: @fontSize * 3;
+    }
+}
+header{
+    height:74 / 64rem;
+    .ft(14px);
+    color:gray;
+    text-align: center;
+    line-height: 74 / 64rem;
+    background:#fff;
+}
+.banner{
+    background:#f8c4b9;
+    height:206 / 64rem;
+    border-bottom:18 / 64rem solid gray;
+}
+.banner img{
+    width:640 / 64rem;
+    height:auto;
+}
+.menu{
+    font-size:0;
+}
+.menu li{
+    height: 104 / 64rem;
+    width:160 / 64rem;
+    background:pink;
+    float:left;
+    .ft(14px);
+    text-align:center;
+}
+.menu li img{
+    margin-top:16 / 64rem;
+}
