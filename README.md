@@ -1,6 +1,6 @@
 ## 推荐布局工具
 - http://koala-app.com/index-zh.html
-    + 推荐理由：很多同学对npm环境不熟悉,编辑器一出问题就搞不定了
+    + 推荐理由：很多同学对npm环境不熟悉,编辑器的less,sass编译环境一旦出问题就搞不定了，用此工具完全不用配置任何环境，安装好即可使用
 - 移动端调试工具:vConsole
     + 推荐理由：手机上不能按f12打开控制台
 
@@ -352,6 +352,8 @@ function generateLoaders(loader, loaderOptions) {
 
 
 ## 图片适配
+srcset属性：以最合适的src去匹配不同屏幕
+见代码
 
 ## 移动端常见问题汇总
 - http://www.cnblogs.com/PeunZhang/p/3407453.html
