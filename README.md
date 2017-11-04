@@ -366,6 +366,9 @@ srcset属性：以最合适的src去匹配不同屏幕
 - http://www.cnblogs.com/PeunZhang/p/3592096.html
 - 1px的问题 --> https://github.com/sunmaobin/Mars/blob/master/solutions/border-1px.md
 
+## 推荐书
+- 《移动web手册》
+
 
 
 
