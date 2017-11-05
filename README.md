@@ -5,6 +5,8 @@
     + 推荐理由：手机上不能按f12打开控制台
 - browserSync
     + 推荐理由：每次改代码都要刷新浏览器，太麻烦了
+    + cnpm install -g browser-sync
+    + browser-sync start --files "*.*" --server (一定要是双引号)
 
 
 ## 响应式布局
