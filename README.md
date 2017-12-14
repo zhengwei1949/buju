@@ -2,6 +2,9 @@
 - https://www.tmall.com/?from=m#/main
 - 网易移动端
 - 研究一些大站的移动端再来说一下结论
+- https://www.cnblogs.com/whowhere/p/7651661.html
+- http://www.cnblogs.com/lixinglong/p/7889526.html
+
 
 ## 推荐布局工具
 - http://koala-app.com/index-zh.html
