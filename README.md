@@ -394,6 +394,9 @@ srcset属性：以最合适的src去匹配不同屏幕
 ## 字体图标的使用
 https://zhuanlan.zhihu.com/p/27699518
 
+## 电脑上如何调试手机上的页面
+- http://blog.csdn.net/byc233518/article/details/52437498
+
 
 
 
