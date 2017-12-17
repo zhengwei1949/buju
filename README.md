@@ -15,7 +15,8 @@
     + 推荐理由：每次改代码都要刷新浏览器，太麻烦了
     + cnpm install -g browser-sync
     + browser-sync start --files "*.*" --server (一定要是双引号)
-
+- 电脑上如何调试手机上的页面
+- http://blog.csdn.net/byc233518/article/details/52437498
 
 ## 响应式布局
 - 如果有一个页面，需要能在pc上正常适配，也能在移动端上适配，我们可以称之为响应式
@@ -386,16 +387,10 @@ srcset属性：以最合适的src去匹配不同屏幕
 ## 推荐书
 - 《移动web手册》
 
-## todo
-- 找二个典型的线上项目，自己写出来，做为参考(人性就是懒，路径依赖，哪怕以前用的东西再差，只要熟悉，也不愿意换过来，如果不把所有的东西准备好，这个文档是白写了)
-- 结合vue写一个demo
-
-
-## 字体图标的使用
+## iconfont字体图标的使用注意事项
 https://zhuanlan.zhihu.com/p/27699518
 
-## 电脑上如何调试手机上的页面
-- http://blog.csdn.net/byc233518/article/details/52437498
+
 
 
 
