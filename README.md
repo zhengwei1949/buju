@@ -406,7 +406,8 @@ https://zhuanlan.zhihu.com/p/27699518
 - https://weflow.io(集成了px-rem压缩图片等gui工具)
 
 
-
+## 参考文章
+- http://www.huzerui.com/blog/2017/07/03/vuejs-develop-h5-experience/
 
 
 
