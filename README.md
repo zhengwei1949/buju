@@ -411,6 +411,7 @@ https://zhuanlan.zhihu.com/p/27699518
 - http://www.huzerui.com/blog/2017/07/03/vuejs-develop-h5-experience/
 - UI设计师沟通 http://www.zlmind.com/?p=3563
 - vue中使用lib-flexible库 https://www.cnblogs.com/WQLong/p/7798822.html
+- 移动端常见问题解决 https://github.com/doyoe/trip
 
 
 
