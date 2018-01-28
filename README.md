@@ -417,3 +417,5 @@ https://zhuanlan.zhihu.com/p/27699518
 ## rem布局的缺点
 屏幕越大的手机应该可以看到更多的内容，使用rem在大屏安卓手机上会产生一种老年机既视感（字体过大、各种元素都会等比过大）
 
+## 需要看的文章
+ http://yanhaijing.com/css/2017/09/29/principle-of-rem-layout/
