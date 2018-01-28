@@ -414,5 +414,6 @@ https://zhuanlan.zhihu.com/p/27699518
 - 移动端常见问题解决 https://github.com/doyoe/trip
 
 
-
+## rem布局的缺点
+屏幕越大的手机应该可以看到更多的内容，使用rem在大屏安卓手机上会产生一种老年机既视感（字体过大、各种元素都会等比过大）
 
