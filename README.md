@@ -8,6 +8,9 @@
 rem+media query
 
 media query布局的缺点 --> http://www.cnblogs.com/lyzg/p/4877277.html
+但是上述方法有一个弊端，首先就是编写起来比较繁琐，我们要给每一个宽度范围都设定一套 CSS 规则，然后当想要对范围进行更细粒度的响应的时候，不得不去增加响应范围的数量。
+
+
 
 ```css
 @media screen and (max-width:320px){
