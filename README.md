@@ -1,5 +1,23 @@
 百分比布局、media query布局、flex布局、vh,vw布局、rem布局
 
+
+```css
+@media screen and (max-width:320px){
+    .inner{
+        width:60px;
+        height:100px;
+        background-color: blue;
+    }
+    @media screen and (min-width:321px) {
+        .inner{
+            width:100px;
+            height:100px;
+            background-color: yellow;
+        }
+    }
+}
+```
+
 默认是980px
 直接讲320下如何布局 ---> 接着讲的是dpr是2如何理解 ---> 实际上320里面是有640的 --> 向设计师要的图是640,缩小一倍的要 --> ---> 除了640之外，还有375的宽度的 --> 适配其他的尺寸 --> 布局要考虑的只有这些吗 ---> 1px宽度的问题 --> 淘宝的布局思路
 ## 先上结论
